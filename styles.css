@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://i.gifer.com/Nv2.gif);
+}
+.text {
+    color: rgb(118, 124, 124);
+}
+
+.text :hover {
+    color: azure;
+    transition: 0.3s;
+}
